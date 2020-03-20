@@ -96,7 +96,9 @@ python3 transform/wiki/import_wiki_compounds.py --refresh_file transform/wiki/cr
 
 python3 transform/wiki/import_wiki_phenotypes.py --refresh_file transform/wiki/credentials.json --output outputs/wiki/PhenotypeSynonyms.json
 
+```
 
+notes:
 
 https://sequencediagram.org/
 ```
